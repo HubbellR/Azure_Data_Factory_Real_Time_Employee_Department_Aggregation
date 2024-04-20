@@ -20,5 +20,8 @@ We are also performing a group by the employee ID.
 
 8.  Now we are done! We have sucessfully created what could easily be a real time solution to compiling, joining and aggregating data as necessary within an Azure data factory process, which in practice is incredibly useful, and can be used for a large variety of needs through out a projects data process and data life cyle. It is just really useful to be able to do this as a quick solution when dealing with real time data.
 
+The json templates of the two pipelines built are attached.
+
 If you all have any questions, please let me know. Thank you!
+
 
